@@ -1,0 +1,70 @@
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    gap: 20px;
+    width: 100%;
+    max-width: 250px;
+    height: 100vh;
+    background: white;
+    box-sizing: border-box;
+    margin-left: 25px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.sidebar-Add-Product{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 20px;
+    padding: 5px 10px;
+    border-radius: 6px;
+    background: #f6f6f6;
+    gap: 20px;
+    cursor: pointer;
+}
+.sidebar-Add-Product img{
+    padding-top: 3px;
+    width: 36px;
+    height: 36px;
+    margin-right: 5px;
+}
+
+
+.sidebar-Product-List{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 20px;
+    padding: 5px 10px;
+    border-radius: 6px;
+    background: #f6f6f6;
+    gap: 20px;
+    cursor: pointer;
+}
+.sidebar-Product-List img{
+    padding-top: 3px;
+    width: 32px;
+    height: 31px;
+    margin-right: 6px;
+}
+
+.sidebar-Order-Details{
+    display: flex;
+    align-items: center;
+    margin: 0px 20px;
+    padding: 5px 10px;
+    border-radius: 6px;
+    background: #f6f6f6;
+    gap: 20px;
+    cursor: pointer;
+}
+.sidebar-Order-Details img{
+    padding-top: 3px;
+    width: 46px;
+    height: 44px;
+    margin-left: 10px;
+}
+.sidebar-Order-Details p{
+    margin-right: 10px;
+}
