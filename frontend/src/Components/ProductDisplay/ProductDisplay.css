@@ -23,7 +23,7 @@
     margin-top: 35px;
 }
 .productdisplay-right{
-    margin: 0px 50px;
+    margin: 0px 40px;
     display: flex;
     flex-direction: column;
 }
@@ -50,11 +50,10 @@
 }
 .productdisplay-right-prices{
     display: flex;
-    margin: 30px 0px;
+    margin: 13px 0px;
     gap: 30px;
     font-size: 24px;
     font-weight: 700;  
-    margin-top: 5px;      
 }
 .productdisplay-right-price-old{
     color: #818181;
@@ -72,7 +71,6 @@
     border-radius: 3px;
     background: #f8f8f8;
     cursor: pointer;
-    margin-top: 0px;
     width: 465px;
     height: 15vh;
     gap: 0px;
