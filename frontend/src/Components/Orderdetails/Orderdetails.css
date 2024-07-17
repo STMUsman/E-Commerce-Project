@@ -1,12 +1,16 @@
+
 .add-product{
     box-sizing: border-box;
     width: 100%;
     max-width: 600px;
     height: 500px;
     padding: 15px 25px;
-    margin: 50px;
+    margin: auto;
+    margin-top: 30px;
     border-radius: 10px;
     background: rgb(246, 246, 246);
+    
+
 
 }
 .add-product p{
